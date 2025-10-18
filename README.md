@@ -9,7 +9,7 @@ Abnormal:
 LDL > 100
 HDL < 60
 
-![pic](pics/cholesterol-chart.jpeg)
+![pic](pics/cholesterol-chart.jpg)
 
 ## Source
 Cleveland Clinic:
